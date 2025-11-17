@@ -1,0 +1,24 @@
+{
+  "Dog": {
+    "description": "Loyal companion with floppy ears and friendly demeanor",
+    "characteristics": [
+      "Floppy ears",
+      "Long snout",
+      "Friendly expression",
+      "Various sizes"
+    ],
+    "fun_fact": "Dogs can understand up to 250 words and gestures!",
+    "lifespan": "10-13 years"
+  },
+  "Cat": {
+    "description": "Independent feline with pointy ears and graceful movements",
+    "characteristics": [
+      "Pointy ears",
+      "Slender face",
+      "Graceful posture",
+      "Vertical pupils"
+    ],
+    "fun_fact": "Cats can rotate their ears 180 degrees!",
+    "lifespan": "12-15 years"
+  }
+}
